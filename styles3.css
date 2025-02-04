@@ -1,0 +1,33 @@
+@font-face {
+    font-family: myFont;
+    src: url(Valentines\ Day.ttf);
+}
+
+h1 {
+    color: #E3A4C5;
+    text-align: center;
+    font-family:myFont ;
+    font-size: 150px;
+    font-weight: 500;
+    border: white;
+    margin-block-start: auto;
+    margin-block-end: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    -webkit-text-stroke: 2px black;
+    border-radius: 10px;
+    text-shadow: 2px 2px black;
+    
+}
+
+
+body{
+    background-image: url(cat_bombastic_side_eye_by_catmast3r35_dgsleks-fullview.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+  
+
+}
